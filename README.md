@@ -9,3 +9,9 @@ Dark mode
 Light mode
 
 ![Screenshot 2023-11-24 at 3 17 24 PM](https://github.com/alishaker/MusicPlayerDemo/assets/24529156/7ddc664e-a1db-4d79-9576-1b9c3b804b53)
+
+
+Demo
+
+https://github.com/alishaker/MusicPlayerDemo/assets/24529156/7036091f-78dc-45fd-a850-8136cc921cca
+
